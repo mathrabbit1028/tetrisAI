@@ -5,8 +5,8 @@
 - 빈칸 고려
 - 가장 높은 빈칸 위 블록 개수 최소화
 - 옆으로 끼워넣기
-2. one-wide :thinking:
-3. T-spin
+2. one-wide
+3. T-spin :thinking:
 4. 3-6 one wide
 5. other spins
 6. four wide
