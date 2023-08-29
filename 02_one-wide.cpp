@@ -319,9 +319,8 @@ int one_wide_score() {
         }
         high[j] = i;
     }
-    high[9] = 20;
 
-    for (int j = 0; j < 9; j++) {
+    for (int j = 0; j < 8; j++) {
         scores -= (high[j] - high[j + 1]) * (high[j] - high[j + 1]) * one_wide_height_diff;
     }
 
